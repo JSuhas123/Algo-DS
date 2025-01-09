@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JSuhas123/Algo-DS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/JSuhas123/Algo-DS/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/JSuhas123/Algo-DS/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/JSuhas123/Algo-DS/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/JSuhas123/Algo-DS/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/JSuhas123/Algo-DS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/JSuhas123/Algo-DS/tree/master/0268-missing-number) |
@@ -21,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/JSuhas123/Algo-DS/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/JSuhas123/Algo-DS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/JSuhas123/Algo-DS/tree/master/0268-missing-number) |
 ## Hash Table
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/JSuhas123/Algo-DS/tree/master/0039-combination-sum) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/JSuhas123/Algo-DS/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
